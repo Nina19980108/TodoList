@@ -37,3 +37,7 @@ body{
   border: 1px dashed #bbb;
   border-radius: 5px;
 }
+
+#addBtn {
+  border-color: rgb(48, 48, 48);
+}
